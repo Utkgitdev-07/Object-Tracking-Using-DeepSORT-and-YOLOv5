@@ -1,0 +1,11 @@
+easydict
+mkl-fft
+mkl-random
+opencv-python
+pyyaml
+requests
+scipy
+seaborn
+torchaudio
+torchvision
+tqdm
