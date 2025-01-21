@@ -79,9 +79,10 @@ Follow these steps to set up the project and run the object tracking script:
 - **Output Video**:
   - The processed video, including bounding boxes and tracking IDs, is saved in the `runs/detect/exp` folder.
 
-  | Original Video (Before Tracking) | Processed Video (After Tracking) |
-  |----------------------------------|----------------------------------|
-  | ![Original Video](pedestrian.mp4) | ![Processed Video](runs\detect\exp4) |
+ | Original Video (Before Tracking)          | Processed Video (After Tracking)          |
+|-------------------------------------------|-------------------------------------------|
+| ![Original Video](images/original_video_ss.png) | ![Processed Video](images/processed_video_ss.png) |
+
 
 
 
