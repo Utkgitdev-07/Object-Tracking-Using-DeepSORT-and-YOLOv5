@@ -4,21 +4,32 @@ This project implements object tracking using **DeepSORT** and **YOLOv5**. The p
 
 ## Project Structure
 
-.
-├── detect_sort.py                # Main script for object detection and tracking
+├── detect_sort.py                 # Main script for object detection and tracking
+
 ├── YOLOv5_DeepSort_Tracking.ipynb # Jupyter notebook for exploration and visualization
+
 ├── yolov5s.pt                    # Pretrained YOLOv5 weights
+
 ├── requirements.txt              # Python dependencies
+
 ├── graphs.py                     # Utility functions for bounding box visualization
+
 ├── LICENSE                       # License file (MIT License)
+
 ├── pedestrian.mp4                # Input video for demonstration
+
 ├── yolov5/                       # YOLOv5 model codebase
+
 ├── deep_sort_pytorch/            # DeepSORT implementation
+
 ├── runs/                         # Folder containing output videos and results
-│   ├── detect/
-│   │   └── exp/                  # Folder where the processed video is saved
+   
+   ├── detect/
+         
+   -exp/                  # Folder where the processed video is saved
+
 ├── __pycache__/                  # Python cache files
-```
+
 
 
 ## Features
